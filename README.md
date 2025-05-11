@@ -12,4 +12,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar67&" alt="shahriar67" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriar67&show_icons=true&locale=en&layout=compact" alt="shahriar67" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahriar67" alt="shahriar67" /></a></p>
-name: GitHub Snake Game
+
