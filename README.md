@@ -1,6 +1,7 @@
 # 💫 About Me:
+<img align="right" alt="coding" width="270" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 Hello, my name is Shahriar Mahmud. I am currently pursuing my Bachelor's degree in Computer Science and Engineering at Daffodil International University. From a very young age, I was deeply fascinated by how software works. This curiosity gradually grew into a strong passion for technology and innovation, leading me to aspire to become a software engineer.
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/9604502b-82c3-4bf4-b57d-28c489ee10f9/image.png">
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/shahriar.mahmud227?rdid=xaHHQHkAOYnCZ5Tw&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1J5ymntMEt%2F#) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@shahriarmahmud6031) 
