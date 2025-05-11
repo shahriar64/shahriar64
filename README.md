@@ -15,6 +15,8 @@ Hello, my name is Shahriar Mahmud. I am currently pursuing my Bachelor's degree 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shahriar64&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+![snake gif](https://github.com/shahriar64/shahriar64/blob/output/github-snake-dark.svg)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
