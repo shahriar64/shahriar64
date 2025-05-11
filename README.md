@@ -22,3 +22,5 @@ Hello, my name is Shahriar Mahmud. I am currently pursuing my Bachelor's degree 
 [![](https://visitcount.itsvg.in/api?id=shahriar64&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/shahriar64/shahriar64/blob/output/github-contribution-grid-snake.svg)
