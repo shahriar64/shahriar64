@@ -1,4 +1,4 @@
-<img src="https://media-hosting.imagekit.io/4769b79e3edb4d67/Abstract%20Technology%20Profile%20LinkedIn%20Banner.gif?Expires=1841594243&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=fiJ8DkXKINt~p7PbcBumscoG5nNj6BB6Eu8MkIDY3lq7Ekdq1oGzSyMm8mANE9cjUQnx6voEKc61VQJCfk7NmTcaBIgT1PGrDI5OgPisFhSu8Yh-Sip~r2h-ZYQ9sGUy3CQakvQyE4P3qUc1SH6EROApqVhlRsr14i7dulrgoP0tlrnu8yjZ6xxW82PIMHaaF15RfHkfsOX6Y3NcCR7ZUtk3w7aANfqPYeWxRXibUMSmj3Kth7SHmrtm0N~QAL0Hduq3zJ5HQci-WlPhCyIPVoM7VlYNCiKh6jve4IlwcLSJdrfZxRzYomj15eCO9AGSwipR0aIQg19iGkY6KycIxg__" alt="Banner GIF" width="100%" />
+![YouTube@techriarzone](https://github.com/user-attachments/assets/612c0c97-4778-4c5e-99b7-15fbd35fce1e)
 
 # 💫 About Me:
 <img align="right" alt="coding" width="270" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
