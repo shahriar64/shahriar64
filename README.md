@@ -1,4 +1,4 @@
-![Black Minimalist Linkedin Banner](https://github.com/user-attachments/assets/2eb66ecd-760a-416b-9c3b-9e3a42df9bc1)
+![Black and White Illustrative Linkedin Banner](https://github.com/user-attachments/assets/43901480-f625-4829-bf0e-fddfc0c3f4fa)
 
 # 💫 About Me:
 <img align="right" alt="coding" width="270" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
