@@ -1,4 +1,4 @@
-![YouTube@techriarzone](https://github.com/user-attachments/assets/612c0c97-4778-4c5e-99b7-15fbd35fce1e)
+<img src="https://github.com/user-attachments/assets/612c0c97-4778-4c5e-99b7-15fbd35fce1e" width="100%">
 
 # 💫 About Me:
 <img align="right" alt="coding" width="270" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
